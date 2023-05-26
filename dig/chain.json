@@ -50,6 +50,31 @@
         "compatible_versions": [
           "v1.0.0"
         ]
+      },
+      {
+        "tag": "v0.36.0",
+        "height": 222222,
+        "proposal": 114,
+        "recommended_version": "v0.36.0",
+        "cosmos_sdk_version": "0.46",
+        "consensus": {
+          "type": "tendermint",
+          "version": "0.34"
+        },
+        "cosmwasm_version": "1.2.3",
+        "cosmwasm_path": "/$HOME/.dig/wasm",
+        "cosmwasm_enabled": true,
+        "ibc_go_version": "0.40.2",
+        "ics_enabled": [
+          "ics20-1",
+          "ics27-1"
+        ],
+        "binaries": {
+          "linux/amd64": "adadfasdfdf",
+          "linux/arm64": "",
+          "darwin/amd64": "asdfasdfasdf",
+          "darwin/arm64": "adsfasdfsdfdsf"
+        }
       }
     ]
   },
